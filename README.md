@@ -154,4 +154,6 @@ Este aplicativo NÃO substitui:
 
 Use apenas como ferramenta auxiliar.
 
+10. Link para dowload do aplicativo
 
+https://github.com/domingospereira-dev/Classificador-de-Tosse/releases/tag/v1.0
